@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a EdTech platform to teach coding with Fun Javascript games.
+- 🌱 I’m currently learning ReactJS .
+- 🤔 I’m looking for help with any kind of Web development projects.
+- 📫 How to reach me: [Twitter](https://twitter.com/drunkenhancock)
+
+![Codewars](https://github.r2v.ch/codewars?user=rock6401)
 
 <!--
 **sarvadamanS/sarvadamanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
