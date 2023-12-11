@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a EdTech platform to teach coding with Fun Javascript games.
-- 🌱 I’m currently learning ReactJS . Here's a link to my demo project built on React https://contacts-app-sarva.netlify.app/
-- 🤔 I’m looking for help with any kind of Web development projects.
+- 🔭 I’m currently working on an EdTech platform to teach coding with Fun Javascript games. https://apt-codely.web.app/  (this is a older version that was public)
+- 🌱 I’m currently learning ReactJS. Here's a link to my demo project built on React https://contacts-app-sarva.netlify.app/
+- 🤔 I’m looking to help with any kind of Web development project.
 - 📫 How to reach me: [Twitter](https://twitter.com/drunkenhancock)
 
 ![Codewars](https://github.r2v.ch/codewars?user=rock6401)
