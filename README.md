@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning ReactJS. Here's a link to my demo project built on React https://contacts-app-sarva.netlify.app/
   
- ![Contact app Screenshot ](https://github.com/sarvadamanS/sarvadamanS/blob/main/contactsApp.png)
+ ![Contact app Screenshot ](https://github.com/sarvadamanS/sarvadamanS/blob/main/contactApp.png)
   
 - 🌐 Check out my latest beautiful site made from a Figma design: [Lovely RolyPoly](https://lovely-rolypoly-6f99fe.netlify.app/)
   
