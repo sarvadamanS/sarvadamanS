@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ReactJS. Here's a link to my demo project built on React https://contacts-app-sarva.netlify.app/
 - 🌐 Check out my latest beautiful site made from a Figma design: [Lovely RolyPoly](https://lovely-rolypoly-6f99fe.netlify.app/)
   
-- ![Lovely RolyPoly Screenshot 1](https://github.com/sarvadamanS/sarvadamanS/blob/main/rolypoly1.png)   ![Lovely RolyPoly Screenshot 2](https://github.com/sarvadamanS/sarvadamanS/blob/main/rolypoly2.png)
+- ![Lovely RolyPoly Screenshot 1](https://github.com/sarvadamanS/sarvadamanS/blob/main/rolypoly1.png)
+-  ![Lovely RolyPoly Screenshot 2](https://github.com/sarvadamanS/sarvadamanS/blob/main/rolypoly2.png)
 
 - 🤔 I’m looking to help with any kind of Web development project.
 - 📫 How to reach me: [Twitter](https://twitter.com/drunkenhancock)
