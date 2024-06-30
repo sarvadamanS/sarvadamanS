@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on an EdTech platform to teach coding with Fun Javascript games. https://apt-codely.web.app/  (this is a older version that was public)
 - 🌱 I’m currently learning ReactJS. Here's a link to my demo project built on React https://contacts-app-sarva.netlify.app/
+- 🌐 Check out my latest beautiful site made from a Figma design: [Lovely RolyPoly](https://lovely-rolypoly-6f99fe.netlify.app/)
 - 🤔 I’m looking to help with any kind of Web development project.
 - 📫 How to reach me: [Twitter](https://twitter.com/drunkenhancock)
 
