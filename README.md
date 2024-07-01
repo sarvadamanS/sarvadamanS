@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on an EdTech platform to teach coding with Fun Javascript games using Gogle's Blockly library. https://apt-codely.web.app/  (this is a older version that was public)
+- 🔭 I’m currently working on an EdTech platform to teach coding with Fun Javascript games using Google's Blockly library. https://apt-codely.web.app/  (this is an older version that was public)
   
  ![Blockly Screenshot ](https://github.com/sarvadamanS/sarvadamanS/blob/main/blockly.png)
   
-- 🌱 I’m very proficient with ReactJS. Here's a link to my demo project https://contacts-app-sarva.netlify.app/ , built on ReactJs we can use it to check data of coutries, covid data for specific dates usings public APIs.
+- 🌱 I’m very proficient with ReactJS. Here's a link to my demo project https://contacts-app-sarva.netlify.app/ , built on ReactJs we can use it to check data of countries, covid data for specific dates using public APIs.
   
  ![Contact app Screenshot ](https://github.com/sarvadamanS/sarvadamanS/blob/main/contactApp.png)
   
