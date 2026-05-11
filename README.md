@@ -3,9 +3,9 @@
 # Hey, I'm Sarvadaman Singh 👋
 ### Full-Stack Web Developer · 3+ Years Experience
 
-*Building scalable web apps with modern JavaScript, Vue.js, React & Laravel*
+*Building scalable web apps with modern JavaScript, Vue.js, React , Nodejs & Laravel*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarvadamansingh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarvadamansingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarvadamansingh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarvadaman-singh)
 [![GitHub](https://img.shields.io/badge/GitHub-sarvadamanS-181717?style=flat&logo=github&logoColor=white)](https://github.com/sarvadamanS)
 [![Twitter](https://img.shields.io/badge/Twitter-drunkenhancock-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/drunkenhancock)
 [![Email](https://img.shields.io/badge/Email-sarvadamansingh03@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarvadamansingh03@gmail.com)
@@ -23,7 +23,7 @@ I've worked across the stack — from enterprise AEM implementations for an Aust
 - 🏢 Currently @ **InstaWP** — WordPress Cloud Hosting Platform
 - 🛠️ Stack: JavaScript · Vue.js · ReactJS · Node.js · Laravel · Tailwind CSS
 - 🤖 AI-assisted dev: Claude Code, Cursor
-- 📍 Remote · Based in Jodhpur, Rajasthan, India
+- 📍 Remote · Based in Jaipur, Rajasthan, India
 - 📫 Reach me: sarvadamansingh03@gmail.com
 
 ---
@@ -128,9 +128,10 @@ Pixel-perfect conversion of a Figma design into a fully responsive, production-r
 
 <div align="center">
 
-![Sarvadaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarvadamanS&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarvadamanS&theme=dark&hide_border=true&background=0d1117&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvadamanS&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvadamanS&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&langs_count=8)
+
 
 ![Codewars](https://github.r2v.ch/codewars?user=rock6401)
 
