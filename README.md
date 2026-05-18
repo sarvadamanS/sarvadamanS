@@ -43,7 +43,7 @@ A personal gold price intelligence dashboard that fetches live prices daily, sto
 
 **[→ View Repo](https://github.com/sarvadamanS/24k)**
 
-**[→ Live Demo]([https://apt-codely.web.app/](https://24ksarva.vercel.app/))**
+**[→ Live Demo](https://24ksarva.vercel.app/)**
 
 ![Blockly Screenshot](https://github.com/sarvadamanS/sarvadamanS/blob/main/aurum.png)
 
