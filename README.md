@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Sarvadaman Singh 👋
-### Full-Stack Web Developer · 3+ Years Experience
+### Full-Stack Web Developer · 4+ Years Experience
 
 *Building scalable web apps with modern JavaScript, Vue.js, React , Nodejs & Laravel*
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer with **3+ years** of experience shipping production-grade web applications. Currently working at **InstaWP** on their core WordPress cloud hosting platform — leading UX overhauls, building reusable Vue.js component libraries, and developing Laravel backend features.
+Full-Stack Developer with **4+ years** of experience shipping production-grade web applications. Currently working at **InstaWP** on their core WordPress cloud hosting platform — leading UX overhauls, building reusable Vue.js component libraries, and developing Laravel backend features.
 
 I've worked across the stack — from enterprise AEM implementations for an Australian bank, to AI-powered CRM platforms, to EdTech apps teaching kids to code with drag-and-drop blocks. I'm comfortable with AI-assisted development and use tools like **Claude Code** daily to accelerate workflows.
 
@@ -28,7 +28,47 @@ I've worked across the stack — from enterprise AEM implementations for an Aust
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Work
+
+Selected client & employer projects I've contributed to professionally:
+
+### 🌐 InstaWP — Cloud Hosting Platform
+> **Vue.js · Laravel**
+
+Core contributor to InstaWP's WordPress cloud hosting platform — leading UX overhauls, building reusable Vue.js component libraries, and developing Laravel backend features.
+
+**[→ Visit InstaWP](https://instawp.com/)**
+
+---
+
+### 🏦 AMP Bank — Website (via AEM)
+> **Adobe Experience Manager (AEM)**
+
+Contributed to AMP's web properties through Adobe Experience Manager — building custom components, templates, and workflows for one of Australia's major banks, as part of the Nexperia Technologies team.
+
+**[→ Visit AMP](https://www.amp.com.au/)**
+
+---
+
+### 📊 SalesTarget AI — AI-Powered CRM
+> **ReactJS · Node.js · Shadcn UI**
+
+Helped establish the initial version of Nexperia's AI-powered CRM platform — enabling sales teams to track targets, manage pipelines, and surface AI-driven insights.
+
+**[→ Visit SalesTarget AI](https://salestarget.ai/)**
+
+---
+
+### 🎓 AptCoder — EdTech Platform
+> **Vue.js**
+
+Co-developed AptCoder's internal learning platform for teachers and students, contributing to UI architecture and feature development (separate from the Blockly project below, which I built solo).
+
+**[→ Visit AptCoder](https://aptcoder.com/)**
+
+---
+
+## 🚀 Personal Projects
 
 ### 🪙 Aurum — Gold Price Tracker
 > **Next.js · Supabase · Vercel Cron · Resend**
